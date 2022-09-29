@@ -8,7 +8,7 @@ img{
     place-items: center;
 }
 body{
-    background-color: blueviolet;
+    background-color: darkorchid;
     margin: 0px 40px;
 }
 main{
@@ -18,7 +18,7 @@ main{
     max-width: 800px;
     margin: auto;
 }
-a{color: chocolate;
+a{color: lightblue;
 font-size: 40px;;
 }
 h1{font-size: 50px;}
